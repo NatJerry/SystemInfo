@@ -5,3 +5,10 @@ api-version: 1.17
 authors: [ NaT_Jerry ]
 description: S functions of CWG are extracted separately to make a single plugin
 website: https://github.com/NatJerry/SystemInfo
+commands:
+  systeminfo:
+    aliases:
+      - "si"
+      - "load"
+    usage: /systeminfo
+    description: "获取服务器负载状况"
