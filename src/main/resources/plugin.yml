@@ -1,0 +1,7 @@
+name: SystemInfo
+version: '${project.version}'
+main: top.server.natural.SystemInfo
+api-version: 1.17
+authors: [ NaT_Jerry ]
+description: S functions of CWG are extracted separately to make a single plugin
+website: https://github.com/NatJerry/SystemInfo
